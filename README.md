@@ -1,6 +1,8 @@
 # tinysegmenter
 
-TODO: Write a description here
+Crystal port of [TinySegmenter.js](http://chasen.org/~taku/software/TinySegmenter/) for tokenizing Japanese text. 
+
+Forked from: https://qiita.com/ikasamt/items/471bfae96ce590a4fe82
 
 ## Installation
 
